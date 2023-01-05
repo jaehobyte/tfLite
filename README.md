@@ -1,1 +1,1 @@
-# tfLite Study를 위한 repo
+# tfLite 학습을 위한 repository
